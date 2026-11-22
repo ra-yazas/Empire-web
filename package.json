@@ -1,0 +1,16 @@
+{
+  "name": "empire-26-website",
+  "version": "1.0.0",
+  "description": "Empire 26 official website with The Raven's Eye AI assistant",
+  "main": "netlify/functions/raven.js",
+  "scripts": {
+    "dev": "netlify dev",
+    "test": "node -e \"console.log('Empire 26 ready')\""
+  },
+  "dependencies": {
+    "openai": "^4.86.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.7"
+  }
+}

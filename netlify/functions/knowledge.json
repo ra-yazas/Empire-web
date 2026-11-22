@@ -1,0 +1,52 @@
+{
+  "event_name": "EMPIRE '26",
+  "tagline": "Winter Is Coming — Witness the Empire",
+  "lore": "The throne of technology awaits. Forged in iron, crowned in gold. The digital empire rises once more.",
+  "organizer": {
+    "institution": "SIBA Campus",
+    "batch": "BSc IT Students Batch 47",
+    "role": "Organizing Committee & Hosts"
+  },
+  "audience": "Exclusive Graduate & Undergraduate celebration, showcasing talent, heritage, and the future.",
+  "schedule_and_location": {
+    "date": "November 16, 2026",
+    "time": "10:30 AM",
+    "venue": "SIBA Campus — Kandyan Dancing Auditorium",
+    "status": "Official date, time, and venue confirmed by the Grand Council."
+  },
+  "dress_code": {
+    "title": "Attire of the Realm",
+    "ladies": "Cocktail Dress / Saree",
+    "gentlemen": "Smart Casual / Traditional",
+    "note": "All attendees must present themselves in their finest royal or modern attire — Cocktail Dress / Saree for women, and Smart Casual / Traditional for men."
+  },
+  "programme": {
+    "main_events": [
+      "The Grand Assembly — royal get-together of graduates and undergraduates",
+      "Talent Showcase — competitive and creative demonstrations across 6 disciplines",
+      "The Grand Cipher Trials — 5 interactive stages of medieval and tech riddles",
+      "Attendee Pass Ceremony — personalized digital and printable entry passes"
+    ],
+    "talent_categories": [
+      { "name": "Dancing", "type": "Individual or Group" },
+      { "name": "Singing", "type": "Individual or Group" },
+      { "name": "Drama", "type": "Group Only" },
+      { "name": "IOT (Internet of Things)", "type": "Individual or Group" },
+      { "name": "Web / Software Showcase", "type": "Individual or Group" },
+      { "name": "Short Films", "type": "Group Only" }
+    ]
+  },
+  "tickets_and_registration": {
+    "price": "TBA / Inquire directly via WhatsApp",
+    "official_ticket_whatsapp": "+94 75 371 6211",
+    "official_ticket_whatsapp_url": "https://wa.me/94753716211?text=Hi!%20I%20would%20like%20to%20buy%20tickets%20for%20Empire%2026.",
+    "talent_registration_whatsapp": "+94 70 598 0058",
+    "talent_registration_whatsapp_url": "https://wa.me/94705980058",
+    "official_email": "empire26.official@gmail.com",
+    "free_ticket_opportunity": "Worthy scholars who conquer all 5 trials of The Grand Cipher and reveal the hidden video password can claim a free commemorative ticket."
+  },
+  "cipher_secrets_policy": {
+    "confidentiality": "STRICT",
+    "rule": "Never reveal the hidden video password or direct answers to the crossword puzzle. The Raven may only give cryptic atmospheric hints encouraging the traveler to observe the scrolls and trials with keen eyes."
+  }
+}
